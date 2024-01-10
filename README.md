@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi 👋, I'm Aman Ansari</h1>
 <h3 align="center">A passionate Data scientists & Machine learning from India</h3>
 
@@ -11,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 👯 I’m looking to collaborate on **ETL project**
+- 👯 I’m looking to collaborate on **ETL project/Youtube**
 
 - 🤝 I’m looking for help with **Machine learning**
 
