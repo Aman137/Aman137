@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 👯 I’m looking to collaborate on **ETL project/Youtube**
+- 👯 I’m looking to collaborate on **ETL project on github**
 
 - 🤝 I’m looking for help with **Machine learning**
 
