@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aman137](https://github.com/Aman137)
 
-- 💬 Ask me about **python & libraries:-numpy,pandas,seaborn,Matplotlib ;SQL ;PowerBI ;Basic Knowledge of frontend-developer**
+- 💬 Ask me about **python & libraries:-numpy,pandas,seaborn,Matplotlib ;SQL ;PowerBI **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
