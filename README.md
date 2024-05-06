@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Aman Ansari</h1>
-<h3 align="center">A passionate Data scientists & Machine learning from India</h3>
+<h3 align="center">A passionate Data Engineering & Machine learning from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman137&label=Profile%20views&color=0e75b6&style=flat" alt="aman137" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aman ansari" target="blank"><img src="https://img.shields.io/twitter/follow/aman ansari?logo=twitter&style=for-the-badge" alt="aman ansari" /></a> </p>
 
-- 🔭 I’m currently working on **AI-generator caption**
+- 🔭 I’m currently working on **real time data engineering**
 
 - 🌱 I’m currently learning **Machine learning & Data Engineering**
 
