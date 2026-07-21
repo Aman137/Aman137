@@ -60,7 +60,7 @@
 </p>
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aman137&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="aman137 GitHub stats" />
