@@ -57,6 +57,9 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/></a>
 <a href="https://antigravity.google" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/google-antigravity-light.png" alt="antigravity logo" height="40"/></a>
+<a href="https://zapier.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/zapier/FF4F00" alt="Zapier logo" height="40"/>
+  </a>
 </p>
 ---
 
