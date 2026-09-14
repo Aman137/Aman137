@@ -21,26 +21,24 @@
 
 ---
 
-## 🤖 About Me
+## About Me
 
 I'm an **AI Engineer** focused on building **AI-powered workflows, intelligent agents, automation systems, and data-driven applications**.
 
 Currently, I'm working with technologies across the **Agentic AI and AI Automation ecosystem**, including **Salesforce Agentforce, n8n, HubSpot, LLMs, APIs, prompt engineering, and multi-step AI workflows**.
 
-* 🤖 Building **AI Agents & Agentic AI workflows**
-* ⚡ Developing AI automation using **n8n**
-* ☁️ Working with **Salesforce Agentforce**
-* 🔗 Integrating AI systems with **APIs, CRMs & business tools**
-* 🧠 Working with **LLMs, prompt engineering, RAG & agent logic**
-* 🔄 Designing **multi-step automation and state-based workflows**
-* 📊 Combining **AI + Data Engineering + Business Automation**
-* 🐍 Using **Python** for AI, automation and data workflows
-* 🛠️ Exploring **HubSpot and CRM automation**
-* 🚀 Interested in building **production-ready AI solutions**
+* Building **AI Agents & Agentic AI workflows**
+* Developing AI automation using **n8n**
+* Working with **Salesforce Agentforce**
+* Integrating AI systems with **APIs, CRMs & business tools**
+* Working with **LLMs, prompt engineering, RAG & agent logic**
+* Designing **multi-step automation and state-based workflows**
+*  Exploring **HubSpot and CRM automation**
+*  Interested in building **production-ready AI solutions**
 
 ---
 
-## 🧠 AI Engineering
+##  AI Engineering
 
 <p align="left">
 
@@ -52,7 +50,7 @@ Currently, I'm working with technologies across the **Agentic AI and AI Automati
 
 </p>
 
-### 🤖 AI Platforms & Automation
+###  AI Platforms & Automation
 
 <p align="left">
 
@@ -94,7 +92,7 @@ Human Escalation / Decision Making
 Production-Ready AI Systems
 ```
 
-### 🔥 Current Areas
+###  Current Areas
 
 | Area                | Focus                                      |
 | ------------------- | ------------------------------------------ |
@@ -148,9 +146,9 @@ Production-Ready AI Systems
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🤖 AI Automation & Agentic AI
+###  AI Automation & Agentic AI
 
 Building practical AI workflows that connect **LLMs, agents, APIs, CRMs and automation platforms** to solve real business problems.
 
@@ -168,7 +166,7 @@ Building practical AI workflows that connect **LLMs, agents, APIs, CRMs and auto
 
 ---
 
-### ⚡ Real-Time Election Voting System
+###  Real-Time Election Voting System
 
 **Python • Kafka • Spark Streaming • PostgreSQL • Streamlit • Docker**
 
@@ -176,7 +174,7 @@ A real-time streaming system for processing and visualizing election voting data
 
 ---
 
-### 📄 ATS Resume Checker
+###  ATS Resume Checker
 
 **Python • Streamlit • Generative AI**
 
@@ -184,7 +182,7 @@ An AI-powered application that analyzes resumes against job descriptions and gen
 
 ---
 
-### 🚦 Chicago Traffic Crash Analytics
+###  Chicago Traffic Crash Analytics
 
 **Google Cloud • BigQuery • Looker • Tableau**
 
@@ -206,7 +204,7 @@ Cloud Platforms         ████████████████░░�
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aman137&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
